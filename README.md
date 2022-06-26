@@ -2,16 +2,16 @@
 
 Nice to meet you, I'm Bright Tenalo aka Debrightess
 
-## Who Am I? 🤠
+## Who Am I? 🐼
 
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 💌 Fun Facts : 
-    - There is BIG money in coding🐼 
+    - I play chess anytime my code is stuck 🙃
     - Overthinks thinking to not to overthink 🙂
-    - todo por diversion ( Ahh, Learning Spanish out of curiosity ) 🙃
+    - todo por diversion ( Ahh, Learning Spanish out of curiosity ) 🤠 
     
 <br>
 
