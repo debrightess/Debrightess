@@ -73,7 +73,7 @@ Nice to meet you, I'm Bright Tenalo aka Debrightess
 <a href="https://www.instagram.com/debrightess" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/" target="_blank">
+<a href="https://www.linkedin.com/in/bright-tenalo-96b6a9184/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
     
 <!-- <a href="https://tidbitsjs.medium.com/" target="_blank">
