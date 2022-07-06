@@ -60,7 +60,7 @@ Nice to meet you, I'm Bright Tenalo aka Debrightess
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=debrightess&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=debrightess&theme=react-dark)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=debrightess&theme=react-dark) -->
 <br>
 
 <p align="center">Wanna Know me More?</p>
